@@ -1,0 +1,22 @@
+{
+  "name": "nobloqueante",
+  "version": "1.0.0",
+  "description": "no bloqueante NodeJS",
+  "main": "nobloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarVhH/nobloqueante.git"
+  },
+  "keywords": [
+    "nobloqueante"
+  ],
+  "author": "Oscar Vazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscarVhH/nobloqueante/issues"
+  },
+  "homepage": "https://github.com/OscarVhH/nobloqueante#readme"
+}
